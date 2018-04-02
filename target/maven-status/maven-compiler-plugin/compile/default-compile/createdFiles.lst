@@ -1,0 +1,13 @@
+com/project/marketplace/MarketPlaceApplication.class
+com/project/marketplace/message/BidRequest.class
+com/project/marketplace/domain/Project.class
+com/project/marketplace/domain/Bid.class
+com/project/marketplace/domain/ProjectRepository.class
+com/project/marketplace/service/MarketplaceService.class
+com/project/marketplace/domain/BidRepository.class
+com/project/marketplace/service/MarketplaceServiceImpl.class
+com/project/marketplace/message/ProjectRequest.class
+com/project/marketplace/domain/FinishedOrder.class
+com/project/marketplace/MarketplaceController.class
+com/project/marketplace/domain/FinishedOrderRepository.class
+com/project/marketplace/ScheduledTasks.class
